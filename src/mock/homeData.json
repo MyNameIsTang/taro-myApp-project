@@ -1,0 +1,371 @@
+{
+  "platformAssurance": [
+    "大牌制造商直供",
+    "七天无忧退货",
+    "全平台包邮"
+  ],
+  "banners": [
+    {
+      "newImageUrl": "https://bfs.biyao.com/group1/M00/BF/FC/rBACYVy4RUaAcXokAAC9jTFrkeo973.jpg",
+      "pcImageUrl": "https://bfs.biyao.com/group1/M00/59/87/rBACW1ufXFaAa-A3AAHZp9wHgF0810.jpg",
+      "webpImageUrl": "https://bfs.biyao.com/group1/M00/28/D5/rBACVFphw12AEFxEAAFapWLzGkM698.webp",
+      "webpNewImageUrl": "https://bfs.biyao.com/group1/M00/BF/FC/rBACYVy4RUaAcXokAAC9jTFrkeo973.webp",
+      "image": "https://bfs.biyao.com/group1/M00/BF/FC/rBACYVy4RUaAcXokAAC9jTFrkeo973.jpg",
+      "clickType": "3",
+      "ext": {
+        "supplierID": "130118"
+      },
+      "stp": "%7B%22rpvid%22%3A%22c4b5ba31-1555753896078-40d1eec1c9%22%2C%22spm%22%3A%221.500001.home_banner.0%22%7D"
+    },
+    {
+      "newImageUrl": "https://bfs.biyao.com/group1/M00/C0/04/rBACYVy4THWANlHBAADPC8AFvJg915.jpg",
+      "pcImageUrl": "https://bfs.biyao.com/group1/M00/5B/EF/rBACVFuwZHKAWSJWAAD1iq_wad0652.jpg",
+      "webpImageUrl": "",
+      "webpNewImageUrl": "https://bfs.biyao.com/group1/M00/C0/04/rBACYVy4THWANlHBAADPC8AFvJg915.webp",
+      "image": "https://bfs.biyao.com/group1/M00/C0/04/rBACYVy4THWANlHBAADPC8AFvJg915.jpg",
+      "clickType": "3",
+      "ext": {
+        "supplierID": "130201"
+      },
+      "stp": "%7B%22rpvid%22%3A%22c4b5ba31-1555753896078-40d1eec1c9%22%2C%22spm%22%3A%221.500001.home_banner.1%22%7D"
+    },
+    {
+      "newImageUrl": "https://bfs.biyao.com/group1/M00/C0/04/rBACYVy4TJOAdRKWAACZQ_X7rtQ022.jpg",
+      "pcImageUrl": "https://bfs.biyao.com/group1/M00/95/91/rBACVFxUGGuARxAkAAC_yP0J6Ws168.jpg",
+      "webpImageUrl": "",
+      "webpNewImageUrl": "https://bfs.biyao.com/group1/M00/C0/04/rBACYVy4TJOAdRKWAACZQ_X7rtQ022.webp",
+      "image": "https://bfs.biyao.com/group1/M00/C0/04/rBACYVy4TJOAdRKWAACZQ_X7rtQ022.jpg",
+      "clickType": "3",
+      "ext": {
+        "supplierID": "130119"
+      },
+      "stp": "%7B%22rpvid%22%3A%22c4b5ba31-1555753896078-40d1eec1c9%22%2C%22spm%22%3A%221.500001.home_banner.2%22%7D"
+    },
+    {
+      "newImageUrl": "https://bfs.biyao.com/group1/M00/BE/F9/rBACVFy5frKAVr-ZAABzvqczHrM031.jpg",
+      "pcImageUrl": "https://bfs.biyao.com/group1/M00/58/A6/rBACYVubaF2AS2B6AADZw8S6G3k013.jpg",
+      "webpImageUrl": "https://bfs.biyao.com/group1/M00/2D/67/rBACVFqZNCSAcfafAADsF4cVSKE235.webp",
+      "webpNewImageUrl": "https://bfs.biyao.com/group1/M00/BE/F9/rBACVFy5frKAVr-ZAABzvqczHrM031.webp",
+      "image": "https://bfs.biyao.com/group1/M00/BE/F9/rBACVFy5frKAVr-ZAABzvqczHrM031.jpg",
+      "clickType": "3",
+      "ext": {
+        "supplierID": "130090"
+      },
+      "stp": "%7B%22rpvid%22%3A%22c4b5ba31-1555753896078-40d1eec1c9%22%2C%22spm%22%3A%221.500001.home_banner.3%22%7D"
+    },
+    {
+      "newImageUrl": "https://bfs.biyao.com/group1/M00/BE/48/rBACVFy4TOmAVOO6AACu62EF6WQ727.jpg",
+      "pcImageUrl": "https://bfs.biyao.com/group1/M00/56/F4/rBACVFubaQaAGZnxAADlfnOFOBQ881.jpg",
+      "webpImageUrl": "https://bfs.biyao.com/group1/M00/2E/59/rBACYVqT1o2AfNltAAC50bZ0ShI483.webp",
+      "webpNewImageUrl": "https://bfs.biyao.com/group1/M00/BE/48/rBACVFy4TOmAVOO6AACu62EF6WQ727.webp",
+      "image": "https://bfs.biyao.com/group1/M00/BE/48/rBACVFy4TOmAVOO6AACu62EF6WQ727.jpg",
+      "clickType": "3",
+      "ext": {
+        "supplierID": "130146"
+      },
+      "stp": "%7B%22rpvid%22%3A%22c4b5ba31-1555753896078-40d1eec1c9%22%2C%22spm%22%3A%221.500001.home_banner.4%22%7D"
+    },
+    {
+      "newImageUrl": "https://bfs.biyao.com/group1/M00/C0/04/rBACYVy4TQ-AKJohAADZVKw9V_8193.jpg",
+      "pcImageUrl": "https://bfs.biyao.com/group1/M00/6B/37/rBACW1vlXhmAbZJTAAE6cM1Utq0527.jpg",
+      "webpImageUrl": "",
+      "webpNewImageUrl": "https://bfs.biyao.com/group1/M00/C0/04/rBACYVy4TQ-AKJohAADZVKw9V_8193.webp",
+      "image": "https://bfs.biyao.com/group1/M00/C0/04/rBACYVy4TQ-AKJohAADZVKw9V_8193.jpg",
+      "clickType": "3",
+      "ext": {
+        "supplierID": "130227"
+      },
+      "stp": "%7B%22rpvid%22%3A%22c4b5ba31-1555753896078-40d1eec1c9%22%2C%22spm%22%3A%221.500001.home_banner.5%22%7D"
+    }
+  ],
+  "operationNavigation": [
+    {
+      "title": "一起拼",
+      "icon": "https://bfs.biyao.com/group1/M00/82/93/rBACW1wcyyKAKkDzAAAHw8Vgm3o298.png",
+      "webpImageUrl": "https://bfs.biyao.com/group1/M00/82/93/rBACW1wcyyKAKkDzAAAHw8Vgm3o298.webp",
+      "clickType": "24",
+      "superscriptUrl": "",
+      "ext": {
+        "title": ""
+      },
+      "stp": "%7B%22rpvid%22%3A%22c4b5ba31-1555753896078-40d1eec1c9%22%2C%22spm%22%3A%221.500001.home_nava1.0%22%7D"
+    },
+    {
+      "title": "多人拼",
+      "icon": "https://bfs.biyao.com/group1/M00/B9/12/rBACW1ysZzeAcDqKAAAIabkThNY736.png",
+      "webpImageUrl": "https://bfs.biyao.com/group1/M00/B9/12/rBACW1ysZzeAcDqKAAAIabkThNY736.webp",
+      "clickType": "35",
+      "superscriptUrl": "",
+      "ext": {},
+      "stp": "%7B%22rpvid%22%3A%22c4b5ba31-1555753896078-40d1eec1c9%22%2C%22spm%22%3A%221.500001.home_nava1.1%22%7D"
+    },
+    {
+      "title": "健康正餐",
+      "icon": "https://bfs.biyao.com/group1/M00/8D/48/rBACYVw4BtGAPW61AAAOVsA75Nc838.png",
+      "webpImageUrl": "https://bfs.biyao.com/group1/M00/8D/48/rBACYVw4BtGAPW61AAAOVsA75Nc838.webp",
+      "clickType": "4",
+      "superscriptUrl": "",
+      "ext": {
+        "categoryID": "691"
+      },
+      "stp": "%7B%22rpvid%22%3A%22c4b5ba31-1555753896078-40d1eec1c9%22%2C%22spm%22%3A%221.500001.home_nava1.2%22%7D"
+    },
+    {
+      "title": "品质男装",
+      "icon": "https://bfs.biyao.com/group1/M00/47/67/rBACVFtjwZiAJtKAAAAGs0jCTj8552.png",
+      "webpImageUrl": "https://bfs.biyao.com/group1/M00/47/67/rBACVFtjwZiAJtKAAAAGs0jCTj8552.webp",
+      "clickType": "4",
+      "superscriptUrl": "",
+      "ext": {
+        "categoryID": "279"
+      },
+      "stp": "%7B%22rpvid%22%3A%22c4b5ba31-1555753896078-40d1eec1c9%22%2C%22spm%22%3A%221.500001.home_nava1.3%22%7D"
+    },
+    {
+      "title": "花漾女神",
+      "icon": "https://bfs.biyao.com/group1/M00/3D/DF/rBACVFsw9MCAHV7xAAAKQ54JbXs007.png",
+      "webpImageUrl": "https://bfs.biyao.com/group1/M00/3D/DF/rBACVFsw9MCAHV7xAAAKQ54JbXs007.webp",
+      "clickType": "4",
+      "superscriptUrl": "",
+      "ext": {
+        "categoryID": "294"
+      },
+      "stp": "%7B%22rpvid%22%3A%22c4b5ba31-1555753896078-40d1eec1c9%22%2C%22spm%22%3A%221.500001.home_nava1.4%22%7D"
+    },
+    {
+      "title": "美妆个护",
+      "icon": "https://bfs.biyao.com/group1/M00/49/BA/rBACVFttOGSANsoXAAAFQ0oDVKA649.png",
+      "webpImageUrl": "https://bfs.biyao.com/group1/M00/49/BA/rBACVFttOGSANsoXAAAFQ0oDVKA649.webp",
+      "clickType": "4",
+      "superscriptUrl": "",
+      "ext": {
+        "categoryID": "119"
+      },
+      "stp": "%7B%22rpvid%22%3A%22c4b5ba31-1555753896078-40d1eec1c9%22%2C%22spm%22%3A%221.500001.home_nava1.5%22%7D"
+    },
+    {
+      "title": "厨具水具",
+      "icon": "https://bfs.biyao.com/group1/M00/6A/E4/rBACW1vk7eSAFowfAAAKiNkazyg993.png",
+      "webpImageUrl": "https://bfs.biyao.com/group1/M00/6A/E4/rBACW1vk7eSAFowfAAAKiNkazyg993.webp",
+      "clickType": "4",
+      "superscriptUrl": "",
+      "ext": {
+        "categoryID": "51"
+      },
+      "stp": "%7B%22rpvid%22%3A%22c4b5ba31-1555753896078-40d1eec1c9%22%2C%22spm%22%3A%221.500001.home_nava1.6%22%7D"
+    },
+    {
+      "title": "家居家纺",
+      "icon": "https://bfs.biyao.com/group1/M00/6A/E4/rBACW1vk7PqABPF1AAADvhPB07w667.png",
+      "webpImageUrl": "https://bfs.biyao.com/group1/M00/6A/E4/rBACW1vk7PqABPF1AAADvhPB07w667.webp",
+      "clickType": "4",
+      "superscriptUrl": "",
+      "ext": {
+        "categoryID": "355"
+      },
+      "stp": "%7B%22rpvid%22%3A%22c4b5ba31-1555753896078-40d1eec1c9%22%2C%22spm%22%3A%221.500001.home_nava1.7%22%7D"
+    },
+    {
+      "title": "家用电器",
+      "icon": "https://bfs.biyao.com/group1/M00/6A/DC/rBACYVvk7caAZUezAAADIxT8I8U946.png",
+      "webpImageUrl": "https://bfs.biyao.com/group1/M00/6A/DC/rBACYVvk7caAZUezAAADIxT8I8U946.webp",
+      "clickType": "4",
+      "superscriptUrl": "",
+      "ext": {
+        "categoryID": "334"
+      },
+      "stp": "%7B%22rpvid%22%3A%22c4b5ba31-1555753896078-40d1eec1c9%22%2C%22spm%22%3A%221.500001.home_nava1.8%22%7D"
+    },
+    {
+      "title": "男女鞋靴",
+      "icon": "https://bfs.biyao.com/group1/M00/5C/51/rBACYVurZQ6AM2rHAAAMi2h5ylo955.png",
+      "webpImageUrl": "https://bfs.biyao.com/group1/M00/5C/51/rBACYVurZQ6AM2rHAAAMi2h5ylo955.webp",
+      "clickType": "4",
+      "superscriptUrl": "",
+      "ext": {
+        "categoryID": "35"
+      },
+      "stp": "%7B%22rpvid%22%3A%22c4b5ba31-1555753896078-40d1eec1c9%22%2C%22spm%22%3A%221.500001.home_nava1.9%22%7D"
+    }
+  ],
+  "article": {},
+  "topic": [
+    {
+      "entryImageUrl": "https://bfs.biyao.com/group1/M00/BF/C6/rBACYVy4EjKAFXWeAACix8w0S-U411.jpg",
+      "entryWebpImageUrl": "https://bfs.biyao.com/group1/M00/BF/C6/rBACYVy4EjKAFXWeAACix8w0S-U411.webp",
+      "price": "58",
+      "productAggregationId": 402,
+      "subtitle": "",
+      "title": "美妆囤货清单",
+      "topicId": 336
+    },
+    {
+      "entryImageUrl": "https://bfs.biyao.com/group1/M00/BC/AB/rBACYVyyC9aAZhHcAAESk4iBnfI386.jpg",
+      "entryWebpImageUrl": "https://bfs.biyao.com/group1/M00/BC/AB/rBACYVyyC9aAZhHcAAESk4iBnfI386.webp",
+      "price": "99",
+      "productAggregationId": 401,
+      "subtitle": "T恤穿搭，流行正当时",
+      "title": "夏季必备",
+      "topicId": 335
+    },
+    {
+      "entryImageUrl": "https://bfs.biyao.com/group1/M00/BA/F0/rBACVFyyCEqAYlyqAADHxBf_PqA654.jpg",
+      "entryWebpImageUrl": "https://bfs.biyao.com/group1/M00/BA/F0/rBACVFyyCEqAYlyqAADHxBf_PqA654.webp",
+      "price": "49",
+      "productAggregationId": 400,
+      "subtitle": "",
+      "title": "口碑单品",
+      "topicId": 334
+    }
+  ],
+  "oneLevelCategoryList": [
+    {
+      "categoryId": "621",
+      "categoryName": "咖啡",
+      "categoryType": "0",
+      "jumpType": 4,
+      "categoryIndex": 0
+    },
+    {
+      "categoryId": "691",
+      "categoryName": "正餐",
+      "categoryType": "0",
+      "jumpType": 4,
+      "categoryIndex": 1
+    },
+    {
+      "categoryId": "627",
+      "categoryName": "饮食",
+      "categoryType": "0",
+      "jumpType": 4,
+      "categoryIndex": 2
+    },
+    {
+      "categoryId": "279",
+      "categoryName": "男装",
+      "categoryType": "0",
+      "jumpType": 4,
+      "categoryIndex": 3
+    },
+    {
+      "categoryId": "294",
+      "categoryName": "女装",
+      "categoryType": "0",
+      "jumpType": 4,
+      "categoryIndex": 4
+    },
+    {
+      "categoryId": "122",
+      "categoryName": "眼镜",
+      "categoryType": "0",
+      "jumpType": 4,
+      "categoryIndex": 5
+    },
+    {
+      "categoryId": "339",
+      "categoryName": "内衣配饰",
+      "categoryType": "0",
+      "jumpType": 4,
+      "categoryIndex": 6
+    },
+    {
+      "categoryId": "391",
+      "categoryName": "母婴",
+      "categoryType": "0",
+      "jumpType": 4,
+      "categoryIndex": 7
+    },
+    {
+      "categoryId": "35",
+      "categoryName": "鞋靴",
+      "categoryType": "0",
+      "jumpType": 4,
+      "categoryIndex": 8
+    },
+    {
+      "categoryId": "39",
+      "categoryName": "运动",
+      "categoryType": "0",
+      "jumpType": 4,
+      "categoryIndex": 9
+    },
+    {
+      "categoryId": "153",
+      "categoryName": "箱包",
+      "categoryType": "0",
+      "jumpType": 4,
+      "categoryIndex": 10
+    },
+    {
+      "categoryId": "119",
+      "categoryName": "美妆个护",
+      "categoryType": "0",
+      "jumpType": 4,
+      "categoryIndex": 11
+    },
+    {
+      "categoryId": "355",
+      "categoryName": "家纺",
+      "categoryType": "0",
+      "jumpType": 4,
+      "categoryIndex": 12
+    },
+    {
+      "categoryId": "51",
+      "categoryName": "餐厨",
+      "categoryType": "0",
+      "jumpType": 4,
+      "categoryIndex": 13
+    },
+    {
+      "categoryId": "334",
+      "categoryName": "电器",
+      "categoryType": "0",
+      "jumpType": 4,
+      "categoryIndex": 14
+    },
+    {
+      "categoryId": "369",
+      "categoryName": "家装",
+      "categoryType": "0",
+      "jumpType": 4,
+      "categoryIndex": 15
+    },
+    {
+      "categoryId": "10",
+      "categoryName": "家具",
+      "categoryType": "0",
+      "jumpType": 4,
+      "categoryIndex": 16
+    },
+    {
+      "categoryId": "223",
+      "categoryName": "数码",
+      "categoryType": "0",
+      "jumpType": 4,
+      "categoryIndex": 17
+    },
+    {
+      "categoryId": "429",
+      "categoryName": "汽配",
+      "categoryType": "0",
+      "jumpType": 4,
+      "categoryIndex": 18
+    },
+    {
+      "categoryId": "546",
+      "categoryName": "健康保健",
+      "categoryType": "0",
+      "jumpType": 4,
+      "categoryIndex": 19
+    },
+    {
+      "categoryId": "685",
+      "categoryName": "宠物",
+      "categoryType": "0",
+      "jumpType": 4,
+      "categoryIndex": 20
+    }
+  ],
+  "apkURL": "http://down.biyao.com/files/android/biyao_android_biyao_v4.7.0.apk"
+}

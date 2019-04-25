@@ -1,0 +1,227 @@
+@import '~taro-ui/dist/style/index.scss';
+
+.recommend-container{
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.recommend-swiper{
+  width: 100%;
+  height: 260px;
+  background: #fff;
+  .swiper{
+    height: 100%;
+  }
+}
+.recommend-tag{
+  width: 100%;
+  height: 72.297px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background: #fff;
+  view{
+    color: #7f4395;
+    font-size: 24px;
+    background: url(https://static.biyao.com/mnew/img/master/index/checked_7e6fbbe.png) no-repeat left center;
+    background-size: 24px 24px;
+    text-align: left;
+    padding-left: 36px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+}
+.operate_g{
+  font-size: 0;
+  background-color: #fff;
+  padding: 44px 15px;
+  .operate-inner{
+    display: flex;
+    flex-wrap: wrap;
+    view{
+      width: 20%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      image{
+        width: 48px;
+        height: 48px;
+        margin-bottom: 8px;
+      }
+      text{
+        width: 100%;
+        font-size: 22px;
+        color: #666;
+        line-height: 30px;
+        display: block;
+        text-align: center;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+    }
+    view:nth-child(n+6) {
+      margin-top: 34px;
+    }
+  }
+}
+.section-cateList{
+  background: #FFF;
+  margin-top: 20px;
+  .narrowSingleline{
+    background: #fff;
+    padding: 28px;
+    image{
+      width: 100%;
+      height: 200px;
+    }
+  }
+  view{
+    box-sizing: border-box;
+  }
+}
+.doubleleft {
+  background: #fff;
+  padding: 10px 28px 0;
+  .doubleleft-inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    @include border-thin-bottom(
+      $color: #f4f4f4,
+      $width: 2px
+    );
+    .doubleleft-left{
+      margin: 10px 0;
+      width: 460px;
+      height: 308px;
+      @include border-thin-right(
+        $color: #f4f4f4,
+        $width: 2px
+      );
+      .left-img{
+        display: flex;
+        padding: 15px;
+        justify-content: space-between;
+        align-items: center;
+        image{
+          width: 200px;
+          height: 200px;
+        }
+        image:nth-child(1) {
+          margin-right: 32px;
+        }
+      }
+    }
+    .doubleleft-right{
+      width: 230px;
+      height: 308px;
+      margin: 10px 0;
+      .right-img{
+        padding: 15px;
+        image{
+          width: 200px;
+          height: 200px;
+          display: block;
+        }
+      }
+    }
+  }
+}
+.left-text{
+  height: 75px;
+  padding-bottom: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  .escp {
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .mainTitle {
+    font-size: 28px;
+  }
+  .subtitle{
+    font-size: 20px;
+  }
+}
+.triple{
+  height: 307px;
+  padding: 0 28px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #fff;
+  .triple-model{
+    margin: 10px 0;
+    width: 230px;
+    @include border-thin-right(
+      $color: #f4f4f4,
+      $width: 2px
+    );
+    .triple-img{
+      width: 228px;
+      height: 228px;
+      padding: 14px;
+      image{
+        width: 100%;
+        height: 100%;
+      }
+    }
+  }
+}
+
+.titleline{
+  width: 100%;
+  text-align: center;
+  padding: 28px 0 14px 0 ;
+  position: relative;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  .mainTitle{
+    height: 40px;
+    margin: 0 auto 10px;
+    font-size: 28px;
+    color: #666;
+    display: block;
+    @include border-thin-bottom(
+      $color: #4A4A4A,
+      $width: 2px
+    );
+  }
+  .minTitle{
+    width: 100%;
+    font-size: 24px;
+    display: block;
+  }
+}
+
+.doubleunfill{
+  width: 100%;
+  height: 316px;
+  padding: 32px 28px 30px;
+  display: flex;
+  background: #fff;
+  view:nth-child(1) {
+    margin-right: 32px;
+  }
+  .mainTitle {
+    font-size: 28px;
+  }
+  .subtitle {
+    font-size: 20px;
+    // margin-bottom: 16px;
+  }
+  image{
+    width: 331px;
+    height: 170px;
+  }
+}
